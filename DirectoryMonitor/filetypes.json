@@ -1,0 +1,7 @@
+{
+  "FileTypes": [
+    "*.csv",
+    "*.xml",
+    "*.txt"
+  ]
+}

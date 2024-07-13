@@ -1,0 +1,548 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\WPF\\DirectoryMonitor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|c:\\c#\\wpf\\directorymonitor\\directorymonitor\\viewmodels\\mainvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|solutionrelative:directorymonitor\\viewmodels\\mainvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|c:\\c#\\wpf\\directorymonitor\\directorymonitor\\helpers\\messageboxhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|solutionrelative:directorymonitor\\helpers\\messageboxhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|c:\\c#\\wpf\\directorymonitor\\directorymonitor\\loaders\\loaderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|solutionrelative:directorymonitor\\loaders\\loaderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|c:\\c#\\wpf\\directorymonitor\\directorymonitor\\helpers\\settingsreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|solutionrelative:directorymonitor\\helpers\\settingsreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|c:\\c#\\wpf\\directorymonitor\\directorymonitor\\views\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|solutionrelative:directorymonitor\\views\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|c:\\c#\\wpf\\directorymonitor\\directorymonitor\\views\\content.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|solutionrelative:directorymonitor\\views\\content.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|c:\\c#\\wpf\\directorymonitor\\directorymonitor\\views\\settings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|solutionrelative:directorymonitor\\views\\settings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|c:\\c#\\wpf\\directorymonitor\\directorymonitor\\views\\content.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|solutionrelative:directorymonitor\\views\\content.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|c:\\c#\\wpf\\directorymonitor\\directorymonitor\\loaders\\csvloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|solutionrelative:directorymonitor\\loaders\\csvloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|c:\\c#\\wpf\\directorymonitor\\directorymonitor\\viewmodels\\contentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|solutionrelative:directorymonitor\\viewmodels\\contentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|c:\\c#\\wpf\\directorymonitor\\directorymonitor\\loaders\\txtloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|solutionrelative:directorymonitor\\loaders\\txtloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|c:\\c#\\wpf\\directorymonitor\\directorymonitor\\models\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|solutionrelative:directorymonitor\\models\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|c:\\c#\\wpf\\directorymonitor\\directorymonitor\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|solutionrelative:directorymonitor\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|c:\\c#\\wpf\\directorymonitor\\directorymonitor\\models\\directoryfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|solutionrelative:directorymonitor\\models\\directoryfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|c:\\c#\\wpf\\directorymonitor\\directorymonitor\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|solutionrelative:directorymonitor\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|c:\\c#\\wpf\\directorymonitor\\directorymonitor\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|solutionrelative:directorymonitor\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|c:\\c#\\wpf\\directorymonitor\\directorymonitor\\views\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|solutionrelative:directorymonitor\\views\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|c:\\c#\\wpf\\directorymonitor\\directorymonitor\\viewmodels\\settingsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|solutionrelative:directorymonitor\\viewmodels\\settingsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|c:\\c#\\wpf\\directorymonitor\\directorymonitor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|solutionrelative:directorymonitor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|c:\\c#\\wpf\\directorymonitor\\directorymonitor\\views\\settings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|solutionrelative:directorymonitor\\views\\settings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|c:\\c#\\wpf\\directorymonitor\\directorymonitor\\loaders\\xmlloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|solutionrelative:directorymonitor\\loaders\\xmlloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|c:\\c#\\wpf\\directorymonitor\\directorymonitor\\models\\configuration\\monitorsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|solutionrelative:directorymonitor\\models\\configuration\\monitorsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|c:\\c#\\wpf\\directorymonitor\\directorymonitor\\filetypes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|solutionrelative:directorymonitor\\filetypes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|c:\\c#\\wpf\\directorymonitor\\directorymonitor\\models\\configuration\\filetypesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|solutionrelative:directorymonitor\\models\\configuration\\filetypesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|c:\\c#\\wpf\\directorymonitor\\directorymonitor\\models\\configuration\\contracts\\isetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|solutionrelative:directorymonitor\\models\\configuration\\contracts\\isetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|c:\\c#\\wpf\\directorymonitor\\directorymonitor\\loaders\\contracts\\ixmlloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|solutionrelative:directorymonitor\\loaders\\contracts\\ixmlloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|c:\\c#\\wpf\\directorymonitor\\directorymonitor\\loaders\\contracts\\itxtloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|solutionrelative:directorymonitor\\loaders\\contracts\\itxtloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|c:\\c#\\wpf\\directorymonitor\\directorymonitor\\loaders\\contracts\\icsvloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|solutionrelative:directorymonitor\\loaders\\contracts\\icsvloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|c:\\c#\\wpf\\directorymonitor\\directorymonitor\\models\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|solutionrelative:directorymonitor\\models\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|c:\\c#\\wpf\\directorymonitor\\directorymonitor\\loaders\\contracts\\iloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|solutionrelative:directorymonitor\\loaders\\contracts\\iloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|c:\\c#\\wpf\\directorymonitor\\directorymonitor\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0752E87-C3DF-4390-A4B6-54757454CA70}|DirectoryMonitor\\DirectoryMonitor.csproj|solutionrelative:directorymonitor\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 15,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Content.xaml.cs",
+              "DocumentMoniker": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Views\\Content.xaml.cs",
+              "RelativeDocumentMoniker": "DirectoryMonitor\\Views\\Content.xaml.cs",
+              "ToolTip": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Views\\Content.xaml.cs",
+              "RelativeToolTip": "DirectoryMonitor\\Views\\Content.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:57:16.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoaderFactory.cs",
+              "DocumentMoniker": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Loaders\\LoaderFactory.cs",
+              "RelativeDocumentMoniker": "DirectoryMonitor\\Loaders\\LoaderFactory.cs",
+              "ToolTip": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Loaders\\LoaderFactory.cs",
+              "RelativeToolTip": "DirectoryMonitor\\Loaders\\LoaderFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T12:18:37.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Models\\FileManager.cs",
+              "RelativeDocumentMoniker": "DirectoryMonitor\\Models\\FileManager.cs",
+              "ToolTip": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Models\\FileManager.cs",
+              "RelativeToolTip": "DirectoryMonitor\\Models\\FileManager.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAMwCwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:31:24.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SettingsReader.cs",
+              "DocumentMoniker": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Helpers\\SettingsReader.cs",
+              "RelativeDocumentMoniker": "DirectoryMonitor\\Helpers\\SettingsReader.cs",
+              "ToolTip": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Helpers\\SettingsReader.cs",
+              "RelativeToolTip": "DirectoryMonitor\\Helpers\\SettingsReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:14:05.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TxtLoader.cs",
+              "DocumentMoniker": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Loaders\\TxtLoader.cs",
+              "RelativeDocumentMoniker": "DirectoryMonitor\\Loaders\\TxtLoader.cs",
+              "ToolTip": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Loaders\\TxtLoader.cs",
+              "RelativeToolTip": "DirectoryMonitor\\Loaders\\TxtLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T12:03:26.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContentVM.cs",
+              "DocumentMoniker": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\ViewModels\\ContentVM.cs",
+              "RelativeDocumentMoniker": "DirectoryMonitor\\ViewModels\\ContentVM.cs",
+              "ToolTip": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\ViewModels\\ContentVM.cs",
+              "RelativeToolTip": "DirectoryMonitor\\ViewModels\\ContentVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:02:29.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainVM.cs",
+              "DocumentMoniker": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\ViewModels\\MainVM.cs",
+              "RelativeDocumentMoniker": "DirectoryMonitor\\ViewModels\\MainVM.cs",
+              "ToolTip": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\ViewModels\\MainVM.cs",
+              "RelativeToolTip": "DirectoryMonitor\\ViewModels\\MainVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:28:59.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.xaml",
+              "DocumentMoniker": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Views\\Main.xaml",
+              "RelativeDocumentMoniker": "DirectoryMonitor\\Views\\Main.xaml",
+              "ToolTip": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Views\\Main.xaml",
+              "RelativeToolTip": "DirectoryMonitor\\Views\\Main.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-11T20:07:57.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Settings.xaml",
+              "DocumentMoniker": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Views\\Settings.xaml",
+              "RelativeDocumentMoniker": "DirectoryMonitor\\Views\\Settings.xaml",
+              "ToolTip": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Views\\Settings.xaml",
+              "RelativeToolTip": "DirectoryMonitor\\Views\\Settings.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-11T20:14:08.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Content.xaml",
+              "DocumentMoniker": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Views\\Content.xaml",
+              "RelativeDocumentMoniker": "DirectoryMonitor\\Views\\Content.xaml",
+              "ToolTip": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Views\\Content.xaml",
+              "RelativeToolTip": "DirectoryMonitor\\Views\\Content.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-12T19:56:36.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageBoxHelper.cs",
+              "DocumentMoniker": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Helpers\\MessageBoxHelper.cs",
+              "RelativeDocumentMoniker": "DirectoryMonitor\\Helpers\\MessageBoxHelper.cs",
+              "ToolTip": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Helpers\\MessageBoxHelper.cs",
+              "RelativeToolTip": "DirectoryMonitor\\Helpers\\MessageBoxHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T20:47:17.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DirectoryFile.cs",
+              "DocumentMoniker": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Models\\DirectoryFile.cs",
+              "RelativeDocumentMoniker": "DirectoryMonitor\\Models\\DirectoryFile.cs",
+              "ToolTip": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Models\\DirectoryFile.cs",
+              "RelativeToolTip": "DirectoryMonitor\\Models\\DirectoryFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:30:49.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\App.xaml.cs",
+              "RelativeDocumentMoniker": "DirectoryMonitor\\App.xaml.cs",
+              "ToolTip": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\App.xaml.cs",
+              "RelativeToolTip": "DirectoryMonitor\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:42:26.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\App.xaml",
+              "RelativeDocumentMoniker": "DirectoryMonitor\\App.xaml",
+              "ToolTip": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\App.xaml",
+              "RelativeToolTip": "DirectoryMonitor\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-12T12:29:17.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SettingsVM.cs",
+              "DocumentMoniker": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\ViewModels\\SettingsVM.cs",
+              "RelativeDocumentMoniker": "DirectoryMonitor\\ViewModels\\SettingsVM.cs",
+              "ToolTip": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\ViewModels\\SettingsVM.cs",
+              "RelativeToolTip": "DirectoryMonitor\\ViewModels\\SettingsVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:34:31.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CsvLoader.cs",
+              "DocumentMoniker": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Loaders\\CsvLoader.cs",
+              "RelativeDocumentMoniker": "DirectoryMonitor\\Loaders\\CsvLoader.cs",
+              "ToolTip": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Loaders\\CsvLoader.cs",
+              "RelativeToolTip": "DirectoryMonitor\\Loaders\\CsvLoader.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T12:03:17.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "DirectoryMonitor\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "DirectoryMonitor\\Commands\\RelayCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:40:07.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Main.xaml.cs",
+              "DocumentMoniker": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Views\\Main.xaml.cs",
+              "RelativeDocumentMoniker": "DirectoryMonitor\\Views\\Main.xaml.cs",
+              "ToolTip": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Views\\Main.xaml.cs",
+              "RelativeToolTip": "DirectoryMonitor\\Views\\Main.xaml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAD4vyYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:08:29.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Settings.xaml.cs",
+              "DocumentMoniker": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Views\\Settings.xaml.cs",
+              "RelativeDocumentMoniker": "DirectoryMonitor\\Views\\Settings.xaml.cs",
+              "ToolTip": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Views\\Settings.xaml.cs",
+              "RelativeToolTip": "DirectoryMonitor\\Views\\Settings.xaml.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAlwDwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:35:27.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\appsettings.json",
+              "RelativeDocumentMoniker": "DirectoryMonitor\\appsettings.json",
+              "ToolTip": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\appsettings.json",
+              "RelativeToolTip": "DirectoryMonitor\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T18:54:07.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "XmlLoader.cs",
+              "DocumentMoniker": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Loaders\\XmlLoader.cs",
+              "RelativeDocumentMoniker": "DirectoryMonitor\\Loaders\\XmlLoader.cs",
+              "ToolTip": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Loaders\\XmlLoader.cs",
+              "RelativeToolTip": "DirectoryMonitor\\Loaders\\XmlLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:06:50.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Asus\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\Asus\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\Users\\Asus\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
+              "ViewState": "AQIAAKMBAAAAAAAAAAAMwLUBAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T20:31:23.618Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAHwUAAAAAAAAAADwv5sUAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-12T19:31:41.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MonitorSettings.cs",
+              "DocumentMoniker": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Models\\Configuration\\MonitorSettings.cs",
+              "RelativeDocumentMoniker": "DirectoryMonitor\\Models\\Configuration\\MonitorSettings.cs",
+              "ToolTip": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Models\\Configuration\\MonitorSettings.cs",
+              "RelativeToolTip": "DirectoryMonitor\\Models\\Configuration\\MonitorSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:10:23.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IXmlLoader.cs",
+              "DocumentMoniker": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Loaders\\Contracts\\IXmlLoader.cs",
+              "RelativeDocumentMoniker": "DirectoryMonitor\\Loaders\\Contracts\\IXmlLoader.cs",
+              "ToolTip": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Loaders\\Contracts\\IXmlLoader.cs",
+              "RelativeToolTip": "DirectoryMonitor\\Loaders\\Contracts\\IXmlLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:05:13.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "filetypes.json",
+              "DocumentMoniker": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\filetypes.json",
+              "RelativeDocumentMoniker": "DirectoryMonitor\\filetypes.json",
+              "ToolTip": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\filetypes.json",
+              "RelativeToolTip": "DirectoryMonitor\\filetypes.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T19:08:15.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FileTypeSettings.cs",
+              "DocumentMoniker": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Models\\Configuration\\FileTypeSettings.cs",
+              "RelativeDocumentMoniker": "DirectoryMonitor\\Models\\Configuration\\FileTypeSettings.cs",
+              "ToolTip": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Models\\Configuration\\FileTypeSettings.cs",
+              "RelativeToolTip": "DirectoryMonitor\\Models\\Configuration\\FileTypeSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:11:02.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ISetting.cs",
+              "DocumentMoniker": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Models\\Configuration\\Contracts\\ISetting.cs",
+              "RelativeDocumentMoniker": "DirectoryMonitor\\Models\\Configuration\\Contracts\\ISetting.cs",
+              "ToolTip": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Models\\Configuration\\Contracts\\ISetting.cs",
+              "RelativeToolTip": "DirectoryMonitor\\Models\\Configuration\\Contracts\\ISetting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:19:49.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ITxtLoader.cs",
+              "DocumentMoniker": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Loaders\\Contracts\\ITxtLoader.cs",
+              "RelativeDocumentMoniker": "DirectoryMonitor\\Loaders\\Contracts\\ITxtLoader.cs",
+              "ToolTip": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Loaders\\Contracts\\ITxtLoader.cs",
+              "RelativeToolTip": "DirectoryMonitor\\Loaders\\Contracts\\ITxtLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:05:30.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ICsvLoader.cs",
+              "DocumentMoniker": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Loaders\\Contracts\\ICsvLoader.cs",
+              "RelativeDocumentMoniker": "DirectoryMonitor\\Loaders\\Contracts\\ICsvLoader.cs",
+              "ToolTip": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Loaders\\Contracts\\ICsvLoader.cs",
+              "RelativeToolTip": "DirectoryMonitor\\Loaders\\Contracts\\ICsvLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:05:01.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Trade.cs",
+              "DocumentMoniker": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Models\\Trade.cs",
+              "RelativeDocumentMoniker": "DirectoryMonitor\\Models\\Trade.cs",
+              "ToolTip": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Models\\Trade.cs",
+              "RelativeToolTip": "DirectoryMonitor\\Models\\Trade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:52:18.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ILoader.cs",
+              "DocumentMoniker": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Loaders\\Contracts\\ILoader.cs",
+              "RelativeDocumentMoniker": "DirectoryMonitor\\Loaders\\Contracts\\ILoader.cs",
+              "ToolTip": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\Loaders\\Contracts\\ILoader.cs",
+              "RelativeToolTip": "DirectoryMonitor\\Loaders\\Contracts\\ILoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:07:14.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "DirectoryMonitor\\AssemblyInfo.cs",
+              "ToolTip": "C:\\C#\\WPF\\DirectoryMonitor\\DirectoryMonitor\\AssemblyInfo.cs",
+              "RelativeToolTip": "DirectoryMonitor\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:04:57.988Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
